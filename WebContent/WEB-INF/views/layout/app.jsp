@@ -16,6 +16,11 @@
             <div id="content">
                 ${param.content}
             </div>
+        <p>マップ表示</p>
+            <div id="map" style="width: 500px; height: 500px">
+
+            </div>
+
             <div id="footer">
                 # footer
             </div>
